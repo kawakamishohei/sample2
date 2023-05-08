@@ -1,2 +1,6 @@
 Tokyo
 nagoya
+osaka
+aiti
+sapporo
+okinawa
